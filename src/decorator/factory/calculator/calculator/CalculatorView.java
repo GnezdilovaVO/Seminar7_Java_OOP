@@ -1,4 +1,4 @@
-package decorator.factory.calculator;
+package decorator.factory.calculator.calculator;
 
 import java.util.Scanner;
 

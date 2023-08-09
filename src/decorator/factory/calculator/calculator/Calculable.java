@@ -1,4 +1,4 @@
-package decorator.factory.calculator;
+package decorator.factory.calculator.calculator;
 
 public interface Calculable {
     Calculable sum(int arg);

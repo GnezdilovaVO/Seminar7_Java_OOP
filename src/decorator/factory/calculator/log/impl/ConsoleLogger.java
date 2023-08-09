@@ -1,6 +1,6 @@
-package log.impl;
+package decorator.factory.calculator.log.impl;
 
-import log.Loggable;
+import decorator.factory.calculator.log.Loggable;
 
 import java.time.LocalDateTime;
 
